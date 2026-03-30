@@ -1,9 +1,0 @@
-tensorflow
-opencv-python
-streamlit
-torch
-torchvision
-numpy
-Pillow
-scikit-image
-python-dotenv
