@@ -1,6 +1,0 @@
-streamlit
-tensorflow
-Pillow
-opencv-python-headless
-cryptography
-numpy
