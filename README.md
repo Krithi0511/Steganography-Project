@@ -1,1 +1,1 @@
-# Steganography-Project
+# Secure-Stego
