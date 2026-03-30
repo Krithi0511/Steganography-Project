@@ -1,0 +1,6 @@
+streamlit
+tensorflow-cpu
+Pillow
+opencv-python-headless
+cryptography==42.0.5
+numpy
